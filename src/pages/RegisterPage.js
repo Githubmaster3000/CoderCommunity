@@ -1,7 +1,12 @@
 import React from "react";
 
 function RegisterPage() {
-  return <div>RegisterPage</div>;
+  return (
+    <div>
+      {" "}
+      <h1>RegisterPage</h1>
+    </div>
+  );
 }
 
 export default RegisterPage;
